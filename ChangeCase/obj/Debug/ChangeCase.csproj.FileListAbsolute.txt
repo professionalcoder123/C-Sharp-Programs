@@ -1,0 +1,7 @@
+F:\C# Programs\ChangeCase\bin\Debug\ChangeCase.exe.config
+F:\C# Programs\ChangeCase\bin\Debug\ChangeCase.exe
+F:\C# Programs\ChangeCase\bin\Debug\ChangeCase.pdb
+F:\C# Programs\ChangeCase\obj\Debug\ChangeCase.csproj.AssemblyReference.cache
+F:\C# Programs\ChangeCase\obj\Debug\ChangeCase.csproj.CoreCompileInputs.cache
+F:\C# Programs\ChangeCase\obj\Debug\ChangeCase.exe
+F:\C# Programs\ChangeCase\obj\Debug\ChangeCase.pdb
