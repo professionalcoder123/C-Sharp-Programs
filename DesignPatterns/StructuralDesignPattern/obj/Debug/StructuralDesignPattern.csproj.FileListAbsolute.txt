@@ -1,0 +1,7 @@
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\DesignPatterns\StructuralDesignPattern\bin\Debug\StructuralDesignPattern.exe.config
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\DesignPatterns\StructuralDesignPattern\bin\Debug\StructuralDesignPattern.exe
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\DesignPatterns\StructuralDesignPattern\bin\Debug\StructuralDesignPattern.pdb
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\DesignPatterns\StructuralDesignPattern\obj\Debug\StructuralDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\DesignPatterns\StructuralDesignPattern\obj\Debug\StructuralDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\DesignPatterns\StructuralDesignPattern\obj\Debug\StructuralDesignPattern.exe
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\DesignPatterns\StructuralDesignPattern\obj\Debug\StructuralDesignPattern.pdb
