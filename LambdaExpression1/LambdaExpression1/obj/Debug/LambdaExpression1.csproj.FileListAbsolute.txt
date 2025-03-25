@@ -1,0 +1,7 @@
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\LambdaExpression1\LambdaExpression1\bin\Debug\LambdaExpression1.exe.config
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\LambdaExpression1\LambdaExpression1\bin\Debug\LambdaExpression1.exe
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\LambdaExpression1\LambdaExpression1\bin\Debug\LambdaExpression1.pdb
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\LambdaExpression1\LambdaExpression1\obj\Debug\LambdaExpression1.csproj.AssemblyReference.cache
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\LambdaExpression1\LambdaExpression1\obj\Debug\LambdaExpression1.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\LambdaExpression1\LambdaExpression1\obj\Debug\LambdaExpression1.exe
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\LambdaExpression1\LambdaExpression1\obj\Debug\LambdaExpression1.pdb

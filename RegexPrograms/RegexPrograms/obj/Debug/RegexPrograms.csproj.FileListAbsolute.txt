@@ -1,0 +1,7 @@
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\RegexPrograms\RegexPrograms\bin\Debug\RegexPrograms.exe.config
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\RegexPrograms\RegexPrograms\bin\Debug\RegexPrograms.exe
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\RegexPrograms\RegexPrograms\bin\Debug\RegexPrograms.pdb
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\RegexPrograms\RegexPrograms\obj\Debug\RegexPrograms.csproj.AssemblyReference.cache
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\RegexPrograms\RegexPrograms\obj\Debug\RegexPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\RegexPrograms\RegexPrograms\obj\Debug\RegexPrograms.exe
+C:\Users\Aditya Turwatkar\Desktop\Aditya\C# Programs\RegexPrograms\RegexPrograms\obj\Debug\RegexPrograms.pdb
