@@ -1,0 +1,7 @@
+F:\C# Programs\AdditionOfSquares\bin\Debug\AdditionOfSquares.exe.config
+F:\C# Programs\AdditionOfSquares\bin\Debug\AdditionOfSquares.exe
+F:\C# Programs\AdditionOfSquares\bin\Debug\AdditionOfSquares.pdb
+F:\C# Programs\AdditionOfSquares\obj\Debug\AdditionOfSquares.csproj.AssemblyReference.cache
+F:\C# Programs\AdditionOfSquares\obj\Debug\AdditionOfSquares.csproj.CoreCompileInputs.cache
+F:\C# Programs\AdditionOfSquares\obj\Debug\AdditionOfSquares.exe
+F:\C# Programs\AdditionOfSquares\obj\Debug\AdditionOfSquares.pdb
